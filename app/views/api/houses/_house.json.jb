@@ -1,0 +1,15 @@
+{
+  id: house.id,
+  description: house.description,
+  year_built: house.year_built,
+  square_feet: house.square_feet,
+  bedrooms: house.bedrooms,
+  bathrooms: house.bathrooms,
+  availability: house.availability,
+  price: house.price,
+  address: house.address,
+  formatted: {
+  latitude: house.latitude,
+  longitude: house.longitude
+}
+}
